@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Contact Me!">
+        <menu>
+            <item
+                    android:id="@+id/email"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="gmvalentino8@gmail.com" />
+            <item
+                    android:id="@+id/phone"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="070-4309-5720" />
+            <item
+                    android:id="@+id/linkedin"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="linkedin.com/in/gmvalentino" />
+            <item
+                    android:id="@+id/github"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="github.com/gmvalentino8" />
+        </menu>
+    </item>
+
+    <item android:title="Skills (Expert)">
+        <menu>
+            <item
+                    android:id="@+id/navi_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+            <item
+                    android:id="@+id/navi_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Skills (Intermediate)">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Skills (Novice)">
+        <menu>
+            <item
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+            <item
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Awards">
+        <menu>
+            <item
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+            <item
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
